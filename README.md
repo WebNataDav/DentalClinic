@@ -13,4 +13,4 @@ To install and set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:WebNataDav/Generation.git
+   git clone git@github.com:WebNataDav/DentalClinic.git
